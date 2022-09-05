@@ -1,0 +1,75 @@
+,0
+0,EmployeeID
+1,Age
+2,DistanceFromHome
+3,Education
+4,JobLevel
+5,Salary
+6,NumCompaniesWorked
+7,PercentSalaryHike
+8,StockOptionLevel
+9,TotalWorkingYears
+10,TrainingTimesLastYear
+11,YearsAtCompany
+12,YearsSinceLastPromotion
+13,YearsWithCurrManager
+14,MeanHrsWorked
+15,MaxHrsWorked
+16,SumHrsWorked
+17,StdHrsWorked
+18,SickDays
+19,PaytoEffortRatio
+20,SatisfactionRatio
+21,DevelopmentRatio
+22,FlightRatio
+23,BusinessTravel_Non-Travel
+24,BusinessTravel_Travel_Frequently
+25,BusinessTravel_Travel_Rarely
+26,Department_Human Resources
+27,Department_Research & Development
+28,Department_Sales
+29,EducationField_Human Resources
+30,EducationField_Life Sciences
+31,EducationField_Marketing
+32,EducationField_Medical
+33,EducationField_Other
+34,EducationField_Technical Degree
+35,Gender_Female
+36,Gender_Male
+37,JobRole_Healthcare Representative
+38,JobRole_Human Resources
+39,JobRole_Laboratory Technician
+40,JobRole_Manager
+41,JobRole_Manufacturing Director
+42,JobRole_Research Director
+43,JobRole_Research Scientist
+44,JobRole_Sales Executive
+45,JobRole_Sales Representative
+46,MaritalStatus_Divorced
+47,MaritalStatus_Married
+48,MaritalStatus_Single
+49,EnvironmentSatisfaction_1.0
+50,EnvironmentSatisfaction_2.0
+51,EnvironmentSatisfaction_3.0
+52,EnvironmentSatisfaction_4.0
+53,JobSatisfaction_1.0
+54,JobSatisfaction_2.0
+55,JobSatisfaction_3.0
+56,JobSatisfaction_4.0
+57,WorkLifeBalance_1.0
+58,WorkLifeBalance_2.0
+59,WorkLifeBalance_3.0
+60,WorkLifeBalance_4.0
+61,JobInvolvement_1
+62,JobInvolvement_2
+63,JobInvolvement_3
+64,JobInvolvement_4
+65,PerformanceRating_3
+66,PerformanceRating_4
+67,AgeGroup_18-23
+68,AgeGroup_24-29
+69,AgeGroup_30-35
+70,AgeGroup_36-41
+71,AgeGroup_42-47
+72,AgeGroup_48-53
+73,AgeGroup_54-59

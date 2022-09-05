@@ -1,4 +1,4 @@
-# IBM Human Resources Attrition Prediction Tool
+# Human Resources Employee Attrition Prediction Tool
 ===============================
 
 By using anonymized IBM Human Resources (HR) data, I created a tool to help company HR 

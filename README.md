@@ -1,13 +1,24 @@
 # People Analytics: Employee Attrition Prediction Tool
-===============================
 
-By using anonymized IBM Human Resources (HR) data, I created a tool to help company HR 
+![SalaryVsWorkedHours](/assets/SalaryVsWorkingHours.png)<br />
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Project Organization](#project-organization)
+- [Built With](#built-with)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+## Overview
+
+ &nbsp;&nbsp;&nbsp;&nbsp;By using anonymized IBM Human Resources (HR) data, I created a tool to help company HR 
 departments allocate resources to employees at the greatest risk of attrition (quitting/leaving),
-reducing wasted retention efforts on employees with little potential for attrition. 
-Through utilization of exploratory data analyis, feature engineering, unsupervised machine learning, 
+reducing wasted retention efforts on employees with little potential for attrition. <br />
+ &nbsp;&nbsp;&nbsp;&nbsp;Through utilization of exploratory data analyis, feature engineering, unsupervised machine learning, 
 and hyperparameter optimization, I developed an efficient model to solve this problem.
 
-Project Organization
+## Project Organization
 ------------
 
     ├── LICENSE
@@ -50,4 +61,23 @@ Project Organization
         ├── 3.1-hr-indepth-analysis.py
         └── 3.2-hr-indepth-analysis.py
 
-        
+### Built With
+
+<a><button name="button">`Python`</button></a> <br />
+<a><button name="button">`Jupyer Notebook`</button></a> <br />
+<a><button name="button">`Scikit-Learn`</button></a> <br />
+<a><button name="button">`Pandas`</button></a> <br />    
+
+## Contact
+
+Noah Vriese<br />
+Email: noah@datawhirled.com<br />
+Github: [nvriese1](https://github.com/nvriese1)<br />
+LinkedIn: [noah-vriese](https://www.linkedin.com/in/noah-vriese/)<br />
+Facebook: [noah.vriese](https://www.facebook.com/noah.vriese)<br />
+Twitter: [@nvriese](https://twitter.com/nvriese)<br />
+
+## Acknowledgements
+
+IBM (International Business Machines)<br />
+Liscense: MIT

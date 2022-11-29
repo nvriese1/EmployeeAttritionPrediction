@@ -45,8 +45,8 @@ and hyperparameter optimization, I developed an efficient model to solve this pr
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │   ├── 1.0-hr-data-wrangling.ipynb
     │   ├── 2.0-hr-data-exploration.ipynb
-    │   ├── 3.1-hr-indepth-analysis.ipynb
-    │   └── 3.2-hr-indepth-analysis.ipynb 
+    │   ├── 3.0-hr-pre-processing.ipynb
+    │   └── 4.0-hr-modeling.ipynb
     │
     ├── references          <- Data dictionaries, manuals, and all other explanatory materials.
     │   └── data_dictionary.xlsx
@@ -58,8 +58,8 @@ and hyperparameter optimization, I developed an efficient model to solve this pr
     └── src                <- Source code for use in this project.
         ├── 1.0-hr-data-wrangling.py
         ├── 2.0-hr-data-exploration.py
-        ├── 3.1-hr-indepth-analysis.py
-        └── 3.2-hr-indepth-analysis.py
+        ├── 3.0-hr-pre-processing.py
+        └── 4.0-hr-modeling.py
 
 ### Built With
 
